@@ -1,3 +1,6 @@
+[![License](https://img.shields.io/github/license/Arm-Examples/Hello_MIMXRT1060-EVKB?label)](https://github.com/Arm-Examples/Hello_MIMXRT1060-EVKB/blob/main/LICENSE)
+[![Build and Execution Test](https://img.shields.io/github/actions/workflow/status/Arm-Examples/Hello_MIMXRT1060-EVKB/build.yml?logo=arm&logoColor=0091bd&label=Build%20and%20Execution%20Test)](https://github.com/Arm-Examples/Hello_MIMXRT1060-EVKB/tree/main/.github/workflows/build.yml)
+
 # Hello example for MIMXRT1060-EVKB
 
 Simple Hello World example for NXP [MIMXRT1060-EVKB](https://www.nxp.com/part/MIMXRT1060-EVKB#/) Evaluation Kit.
