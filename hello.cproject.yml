@@ -52,3 +52,13 @@ project:
   linker:
     - script: RTE/Device/MIMXRT1062DVL6A/MIMXRT1062xxxxx_flexspi_nor.scf
       for-compiler: AC6
+
+  misc:
+    - Link:
+      - '--predefine="-DXIP_BOOT_HEADER_ENABLE=1"'
+
+  output:
+    type:
+      - elf
+      - hex
+
